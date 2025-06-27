@@ -10,7 +10,7 @@
 
 This repository contains the source code for my personal portfolio website, designed to showcase my skills, projects, and publications.
 
-### 🌐 **[View Live Demo](https://mohammad-aljabali-aljabali89m.vercel.app/)**
+### 🌐 **[View Live Demo](https://mohammad-aljabali.vercel.app/)**
 
 ---
 
