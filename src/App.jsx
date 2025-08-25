@@ -78,8 +78,8 @@ const portfolioData = {
   ],
   publications: [
       {
-      title: "Publishing A research paper \"A Vision Transformer-Based Framework for Multi- Class Skin Lesions\"",
-      description: "I have co-authored a research paper titled, \"A Vision Transformer-Based Framework for \nMulti-Class Skin Lesions\". This work documents our novel approach to dermatological image analysis. The full manuscript is currently available on ResearchGate for viewing and discussion.",
+      title: "Publishing A research paper \"A Vision Transformer-Based Framework for \nMulti- Class Skin Lesions\"",
+      description: "I have co-authored a research paper titled, \"A Vision Transformer-Based Framework for Multi-Class Skin Lesions\". This work documents our novel approach to dermatological image analysis. The full manuscript is currently available on ResearchGate for viewing and discussion.",
       mediaType: "image",
       imageUrl: "https://images.seeklogo.com/logo-png/38/1/researchgate-logo-png_seeklogo-380355.png",
       researchGateUrl: "https://www.researchgate.net/publication/392896407",
